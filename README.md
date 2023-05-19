@@ -1,5 +1,5 @@
 
-> **Disclaimer:** I am not an expert. The below utilities and commands are based on my understanding only and therefore may contain errors.
+> **Disclaimer:** I am not an expert. The below commands and utilities are based on my understanding only and therefore may contain errors. Do not use any of these commands or utilities against devices that are not yours unless permission is explicitly provided by the owner.
 
 
 
