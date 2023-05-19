@@ -32,7 +32,7 @@ Terminal command that queries a DNS server to resolve the IP address associated 
 
 #### whois
 Terminal command that lists details of the domain registrar.
-A web resource is also available at [who.is]([https://who.is](https://who.is)
+A web resource is also available at [who.is](https://who.is)
 `whois <ip_address>`
 `whois some.domain.com`
 
