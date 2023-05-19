@@ -40,13 +40,13 @@ A web resource is also available at [who.is](https://who.is)
 #### host
 Terminal command that performs DNS lookups, similar to nslookup command
 `host <ip_address>`
-`host some.domain.com
+`host some.domain.com`
 
 
 #### dnsenum
 Terminal command that performs DNS enumeration
 `dnsenum <ip_address>`
-`dnsenum some.domain.com
+`dnsenum some.domain.com`
 
 
 #### theHarvester
@@ -270,16 +270,3 @@ run-parts /etc/cron.daily
 # go root
 sudo su
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
